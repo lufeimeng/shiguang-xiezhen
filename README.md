@@ -2,10 +2,6 @@
 
 纯静态成人艺术写真展示站，无构建步骤、依赖或后端。
 
-## 部署到 Cloudflare Pages
-
-将此文件夹连接到 Cloudflare Pages 的 Git 部署，Framework preset 选 **None**，Build command 留空，Build output directory 填 `/`（仓库根目录）。也可直接上传本目录文件。
-
 ## 上线前
 
 - 将示例远程图片替换为已取得模特授权、摄影师许可的成年模特素材，并确认素材许可允许你的用途。
